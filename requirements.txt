@@ -1,0 +1,11 @@
+# Main dependencies
+speech_recognition>=3.8.1
+googletrans>=3.1.0a0
+tkinter>=8.6.0
+pycountry>=20.7.3
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=3.0.0
+flake8>=4.0.1
+black>=22.1.0
